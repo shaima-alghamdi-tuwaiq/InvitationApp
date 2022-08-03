@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Invitation App</string>
     <string name="text_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dolor nunc, bibendum sed ullamcorper in, tempus sed nisi. Sed metus tortor, gravida non commodo in, viverra non diam. Nunc id ligula lacinia, imperdiet velit vel, suscipit ante. Phasellus rhoncus iaculis laoreet. Proin malesuada, turpis viverra aliquet luctus, nulla diam elementum ex, id laoreet mi dolor at massa. Integer accumsan ut nulla vitae interdum. Praesent a ex in leo porttitor faucibus non vel nulla. Proin nec condimentum velit, at scelerisque purus. Duis dictum libero at augue tempus gravida. Curabitur in aliquam neque.</string>
+    <string name="good_morning_message">Good Morning, Khloud</string>
+    <string name="from_message">From, Fatima &amp; Shaima</string>
+
 </resources>
